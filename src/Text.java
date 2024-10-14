@@ -4,6 +4,8 @@ public class Text {
 		System.out.println("Text");
 		System.out.println("adding code from terminal");
 		System.out.println("Hello Text");
+		System.out.println("Hello Text................");
+
 	}
 
 }
